@@ -26,6 +26,7 @@ Technologie:
 =================================================
 3. BAZA DANYCH (baza_sklep.sql)
 =================================================
+```
 CREATE DATABASE IF NOT EXISTS sklep
   CHARACTER SET utf8mb4
   COLLATE utf8mb4_polish_ci;
@@ -75,10 +76,12 @@ INSERT INTO produkty (nazwa, opis, cena, id_kategorii, data_dodania) VALUES
     <p><a href="produkty.php">Przejdź do produktów</a></p>
 </body>
 </html>
+```
 
 =================================================
 5. PHP (produkty.php)
 =================================================
+```
 <?php
 $host = "localhost";
 $user = "root";
@@ -186,6 +189,7 @@ $conn->close();
 
 </body>
 </html>
+```
 
 =================================================
 6. JAK URUCHOMIĆ
