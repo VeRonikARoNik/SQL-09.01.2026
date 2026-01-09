@@ -18,7 +18,9 @@ Technologie:
 - MySQL / MariaDB
 
 =================================================
+
 2. STRUKTURA PLIKÓW
+   
 =================================================
 ```
 /sklep/
@@ -83,7 +85,9 @@ INSERT INTO produkty (nazwa, opis, cena, id_kategorii, data_dodania) VALUES
 ```
 
 =================================================
+
 5. PHP (produkty.php)
+   
 =================================================
 ```
 <?php
@@ -196,7 +200,9 @@ $conn->close();
 ```
 
 =================================================
+
 6. JAK URUCHOMIĆ
+   
 =================================================
 1. Skopiuj katalog "sklep" do katalogu serwera:
    - XAMPP -> htdocs
@@ -213,7 +219,9 @@ $conn->close();
    http://localhost/sklep/index.html
 
 =================================================
+
 7. ZADANIE DODATKOWE (na wyższą ocenę)
+   
 =================================================
 Dodać możliwość SORTOWANIA produktów.
 
@@ -237,5 +245,7 @@ Punktacja proponowana:
 MAX: +4 pkt do oceny projektu
 
 =================================================
-KONIEC
+
+prześlij dokument na maila z wykonanym zadaaniem lub link do gihub z repozytorium zadania.
+
 =================================================
