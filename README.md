@@ -240,7 +240,7 @@ Wymagania
 - dopisać pole <select> sortowanie
 - obsłużyć parametry GET
 - zmieniać ORDER BY w SQL
-- funkcja ma działać razem z filtrowaniem i wyszukiwaniem
+- funkcja ma działać razem z filtrowaniem i wyszukiwaniem.
 
 
 
