@@ -248,10 +248,11 @@ Wymagania
  - +2 pkt - działa kilka typów sortowania
  - +3 pkt - działa także z filtrowaniem i wyszukiwaniem
  - +1 pkt - zapamiętanie wybranego sortowania w select
- - MAX: +4 pkt do oceny projektu.
+MAX: +4 pkt do oceny projektu.
 
    
 ===========================================================================================================================
+
 
 ### Prześlij dokument na maila  wykonanezadania100@gmail.com z wykonanym zadaniem lub link do gihub z repozytorium zadania.
 
