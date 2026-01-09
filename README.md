@@ -1,7 +1,10 @@
 PROJEKT: PROSTA STRONA + BAZA SQL (TECHNIKUM)
 
+
 =================================================
+
 1. CEL PROJEKTU
+   
 =================================================
 
 Celem projektu jest stworzenie prostej strony internetowej, która:
