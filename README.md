@@ -247,8 +247,6 @@ MAX: +4 pkt do oceny projektu
 
 =================================================
 
-
-prześlij dokument na maila z wykonanym zadaaniem lub link do gihub z repozytorium zadania.
-
+Prześlij dokument na maila z wykonanym zadaaniem lub link do gihub z repozytorium zadania.
 
 =================================================
