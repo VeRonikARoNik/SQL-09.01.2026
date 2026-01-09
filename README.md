@@ -228,17 +228,20 @@ $conn->close();
 
 Dodać możliwość SORTOWANIA produktów.
 
+
 Kryteria sortowania do wyboru:
 - po cenie rosnąco
 - po cenie malejąco
 - po nazwie alfabetycznie
 - po dacie dodania (najnowsze pierwsze)
 
+
 Wymagania:
 - dopisać pole <select> sortowanie
 - obsłużyć parametry GET
 - zmieniać ORDER BY w SQL
 - funkcja ma działać razem z filtrowaniem i wyszukiwaniem
+
 
 Punktacja proponowana:
 +1 pkt - działa jeden typ sortowania
