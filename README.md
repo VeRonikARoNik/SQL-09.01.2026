@@ -253,6 +253,9 @@ MAX: +4 pkt do oceny projektu.
    
 ===========================================================================================================================
 
+PRZESZLIJ ZADANIE
+
+===========================================================================================================================
 
 ### Prześlij dokument na maila  wykonanezadania100@gmail.com z wykonanym zadaniem lub link do gihub z repozytorium zadania.
 
