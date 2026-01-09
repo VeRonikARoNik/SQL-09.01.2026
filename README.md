@@ -243,19 +243,9 @@ Wymagania
 - funkcja ma działać razem z filtrowaniem i wyszukiwaniem
 
 
-#### Punktacja proponowana:
- - +1 pkt - działa jeden typ sortowania
- - +2 pkt - działa kilka typów sortowania
- - +3 pkt - działa także z filtrowaniem i wyszukiwaniem
- - +1 pkt - zapamiętanie wybranego sortowania w select
-MAX: +4 pkt do oceny projektu.
 
-   
-===========================================================================================================================
 
-PRZESZLIJ ZADANIE
 
-===========================================================================================================================
 
 ### Prześlij dokument na maila  wykonanezadania100@gmail.com z wykonanym zadaniem lub link do gihub z repozytorium zadania.
 
