@@ -30,7 +30,9 @@ Technologie:
 └── baza_sklep.sql
 ```
 =================================================
+
 3. BAZA DANYCH (baza_sklep.sql)
+   
 =================================================
 ```
 CREATE DATABASE IF NOT EXISTS sklep
@@ -243,7 +245,6 @@ Punktacja proponowana:
 +3 pkt - działa także z filtrowaniem i wyszukiwaniem
 +1 pkt - zapamiętanie wybranego sortowania w select
 MAX: +4 pkt do oceny projektu
-
 
 =================================================
 
