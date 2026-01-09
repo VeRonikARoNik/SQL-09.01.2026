@@ -244,8 +244,11 @@ Punktacja proponowana:
 +1 pkt - zapamiętanie wybranego sortowania w select
 MAX: +4 pkt do oceny projektu
 
+
 =================================================
 
+
 prześlij dokument na maila z wykonanym zadaaniem lub link do gihub z repozytorium zadania.
+
 
 =================================================
