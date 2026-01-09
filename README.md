@@ -247,6 +247,6 @@ Wymagania
 
 
 
-### Prześlij dokument na maila  wykonanezadania100@gmail.com z wykonanym zadaniem lub link do gihub z repozytorium zadania.
+### Prześlij dokument na maila: wykonanezadania100@gmail.com z wykonanym zadaniem lub link do gihub z repozytorium zadania.
 
 
