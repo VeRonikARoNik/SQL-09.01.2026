@@ -236,7 +236,7 @@ Kryteria sortowania do wyboru:
 - po dacie dodania (najnowsze pierwsze)
 
 
-Wymagania:
+Wymagania
 - dopisać pole <select> sortowanie
 - obsłużyć parametry GET
 - zmieniać ORDER BY w SQL
@@ -249,7 +249,8 @@ Wymagania:
  - +3 pkt - działa także z filtrowaniem i wyszukiwaniem
  - +1 pkt - zapamiętanie wybranego sortowania w select
  - MAX: +4 pkt do oceny projektu.
-
+ - 
+===========================================================================================================================
 ### Prześlij dokument na maila  wykonanezadania100@gmail.com z wykonanym zadaniem lub link do gihub z repozytorium zadania.
 
 
