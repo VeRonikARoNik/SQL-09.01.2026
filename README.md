@@ -225,6 +225,7 @@ $conn->close();
 7. ZADANIE DODATKOWE (na wyższą ocenę)
    
 =================================================
+
 Dodać możliwość SORTOWANIA produktów.
 
 Kryteria sortowania do wyboru:
@@ -245,6 +246,8 @@ Punktacja proponowana:
 +3 pkt - działa także z filtrowaniem i wyszukiwaniem
 +1 pkt - zapamiętanie wybranego sortowania w select
 MAX: +4 pkt do oceny projektu;
+
+
 
 =================================================
 
